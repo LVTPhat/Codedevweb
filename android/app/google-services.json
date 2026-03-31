@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "491300665165",
+    "firebase_url": "https://codedevweb-c6cb0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "codedevweb-c6cb0",
+    "storage_bucket": "codedevweb-c6cb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491300665165:android:dcf0902f29cb7f31876904",
+        "android_client_info": {
+          "package_name": "com.taihen.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQMFWG9xlhbvyEI0oNddJjbO6F5M4BN-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
